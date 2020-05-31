@@ -35,13 +35,13 @@ N/A
 N/A
 
 ## Aruba
-N/A
+[2020-06-15](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Australia
 N/A
 
 ## Austria
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Azerbaijan
 N/A
@@ -101,7 +101,7 @@ N/A
 N/A
 
 ## Bulgaria
-N/A
+[2020-06-01](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Burkina Faso
 N/A
@@ -167,7 +167,7 @@ N/A
 N/A
 
 ## Cyprus
-N/A
+[2020-06-09](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Czechia
 N/A
@@ -176,7 +176,7 @@ N/A
 N/A
 
 ## Denmark
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Djibouti
 N/A
@@ -203,7 +203,7 @@ N/A
 N/A
 
 ## Estonia
-N/A
+[2020-06-01](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Eswatini
 N/A
@@ -242,10 +242,10 @@ N/A
 N/A
 
 ## Georgia
-N/A
+[2020-07-01](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Germany
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Ghana
 N/A
@@ -254,7 +254,7 @@ N/A
 N/A
 
 ## Greece
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Greenland
 N/A
@@ -299,7 +299,7 @@ N/A
 N/A
 
 ## Iceland
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## India
 N/A
@@ -398,7 +398,7 @@ N/A
 N/A
 
 ## Maldives
-N/A
+[2020-06-01](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Mali
 N/A
@@ -422,7 +422,7 @@ N/A
 N/A
 
 ## Mexico
-N/A
+[2020-06-22](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Micronesia
 N/A
@@ -494,7 +494,7 @@ N/A
 N/A
 
 ## Norway
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Oman
 N/A
@@ -530,7 +530,7 @@ N/A
 N/A
 
 ## Portugal
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Puerto Rico
 N/A
@@ -563,7 +563,7 @@ N/A
 N/A
 
 ## Saint Lucia
-N/A
+[2020-06-04](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Saint Martin
 N/A
@@ -626,7 +626,7 @@ N/A
 N/A
 
 ## Spain
-N/A
+[2020-07-01](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Sri Lanka
 N/A
@@ -641,10 +641,10 @@ N/A
 N/A
 
 ## Sweden
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Switzerland
-N/A
+[2020-06-15](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## Syria
 N/A
@@ -662,7 +662,7 @@ N/A
 N/A
 
 ## Thailand
-N/A
+[2020-06-30](https://edition.cnn.com/travel/article/global-destinations-reopening-to-tourists)
 
 ## Timor-Leste
 N/A
@@ -704,7 +704,7 @@ N/A
 N/A
 
 ## United Kingdom
-N/A
+[2020-06-08](https://www.euronews.com/2020/05/29/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)
 
 ## United States
 N/A
